@@ -1,6 +1,5 @@
 ![Deteksi-kendaraan](https://github.com/nikolaarinanda/KSI-peringatan-kendaraan/assets/127606085/19ed24ad-c53c-45b9-ad0c-6869f9d7da3b)
 
-
 PENDAHULUAN:
 Program ini dirancang untuk mengendalikan pemutaran file audio MP3 menggunakan sensor gerak (PIR) dan modul DFPlayer Mini.
 Sensor gerak digunakan untuk mendeteksi gerakan, dan DFPlayer Mini bertanggung jawab atas pemutaran file MP3.
@@ -36,3 +35,10 @@ Misalnya, terdapat penundaan 5 detik setelah memulai alat dan penundaan 200 mili
 CATATAN : 
 Pastikan telah memasang library DFPlayer Mini pada Arduino IDE sebelum mengunggah program ke perangkat.
 Sesuaikan pin dan konfigurasi hardware sesuai dengan kebutuhan proyek.
+
+Alat-alat yang digunakan:
+1. ESP32 DEVKIT 1
+2. Speaker
+3. DFPlayer MP3 Player
+4. Sensor PIR HC-SR501
+5. Baterai/Powerbank
